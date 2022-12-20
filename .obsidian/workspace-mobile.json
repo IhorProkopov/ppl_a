@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e603c9f0587bb80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test dir/Test did file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Test dir/Test did file.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Test dir/Test did file.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,13 +127,15 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Test dir/Test did file.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "08557889b8aeb9cd",
-  "lastOpenFiles": []
+  "active": "773b5821a761cc46",
+  "lastOpenFiles": [
+    "Test.md"
+  ]
 }
