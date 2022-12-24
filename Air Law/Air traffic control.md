@@ -7,6 +7,6 @@ ATC is a service provided by ground-based air traffic controllers who direct a
 
 ## Сonstituents
 
-- TWR - Aerodrome control service
+- TWR - Aerodrome control service, controls an [[Aerodrome traffic]]Infallibility
 - APP - Approach control service
 - ACC - Area control service

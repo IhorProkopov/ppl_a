@@ -1,0 +1,7 @@
+- Approach vs Tower.
+- Flashing Red on the ground just vacate runway?
+- MAYDAY vs PAN PAN
+- Standart ICAO cruising levels
+- Standart frequencies
+- CTA/CTZ etc.
+- HP&Limitation question #49
