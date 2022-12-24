@@ -1,4 +1,4 @@
-The dry adiabatic lapse rateThe dry adiabatic lapse rateThe dry adiabatic lapse rateThe dry adiabatic lapse rate[[Meteorology]]
+[[Meteorology]]
 
 ### Formula
 
