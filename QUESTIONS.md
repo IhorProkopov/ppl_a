@@ -8,3 +8,5 @@
 - GAFOR
 - SIGMET DECODING
 - VOLMET vs ATIS. Does atis translate volmet?
+- HSI (horizontal situation indicator)?
+- attitude director indicator (ADI)
