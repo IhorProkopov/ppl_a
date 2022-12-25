@@ -5,3 +5,6 @@
 - Standart frequencies
 - CTA/CTZ etc.
 - HP&Limitation question #49
+- GAFOR
+- SIGMET DECODING
+- VOLMET vs ATIS. Does atis translate volmet?
