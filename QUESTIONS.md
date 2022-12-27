@@ -10,3 +10,6 @@
 - VOLMET vs ATIS. Does atis translate volmet?
 - HSI (horizontal situation indicator)?
 - attitude director indicator (ADI)
+-  What is Manifold Pressure
+- how to remember [[VHF Direction Finder (VDF)]] codes
+- NAVIGATION 15 and 17 (why do we need PA?)
