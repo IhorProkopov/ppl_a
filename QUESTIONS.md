@@ -1,15 +1,11 @@
-- Approach vs Tower.
-- Flashing Red on the ground just vacate runway?
-- MAYDAY vs PAN PAN
 - Standart ICAO cruising levels
 - Standart frequencies
 - CTA/CTZ etc.
-- HP&Limitation question #49
-- GAFOR
 - SIGMET DECODING
-- VOLMET vs ATIS. Does atis translate volmet?
 - HSI (horizontal situation indicator)?
 - attitude director indicator (ADI)
 -  What is Manifold Pressure
 - how to remember [[VHF Direction Finder (VDF)]] codes
-- NAVIGATION 15 and 17 (why do we need PA?)
+- landing direction indicator? (T)
+-   Temporary Reserved Airspace (TRA)
+- Navigation #29, #36, # 39, #42, #43, #47 why 99 but not 94?
