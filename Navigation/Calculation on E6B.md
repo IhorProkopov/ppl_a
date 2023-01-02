@@ -1,6 +1,10 @@
 [[Navigation]]
 
 WCA = TH - TC
+WCA = MH - MC
+MH = TH - VAR (magnetic heading = true heading - variation)
+MC = TC - VAR (magnetic course = true course - variation)
+CH = MH - DEV (Calibrated heading = magnetic heading - deviation)
 
 ## GS (Ground Speed) and WCA (Wind Correction Angle)
 

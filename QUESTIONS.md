@@ -9,3 +9,4 @@
 - landing direction indicator? (T)
 -   Temporary Reserved Airspace (TRA)
 - Navigation #29, #36, # 39, #42, #43, #47 why 99 but not 94?
+- DME how to ?
