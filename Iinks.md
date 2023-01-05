@@ -4,3 +4,4 @@
 - https://drive.google.com/file/d/1p1iIzxpD2FqZpmJRIB6oJoWxe14GPWqT/view?usp=sharing
 - https://drive.google.com/file/d/1asUw8s9buUB0ryB1sqbm2vZtqZqZV7du/view?usp=sharing
 - http://www.luizmonteiro.com/learning_vor_sim.aspx
+- https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/ TO READ

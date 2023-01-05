@@ -17,3 +17,6 @@ Decrease when we have full power
 ### Stall speed
 $$V_snew = V_sold * \sqrt{\frac{Weight_{new}}{Weight_{old}}}$$
 
+[[Load Factor]] can also change stall speed. The more [[Load Factor]] the more stall speed
+
+$$V_snew = V_sold * \sqrt{LoadFactor} $$
