@@ -13,3 +13,9 @@ An imagenary line half-way (equidistant) between the upper and lower surfaces of
 #### Thickness chord ratio (Fineness ratio)
 Ration of the aerofoil's maximum thickness to the length of it's chord. Also known as T/C ratio, measures in percentage. Small T/C for high speed, Big T/C for low speed.
 
+
+## Non-symmetrical aerofoil
+
+![[Pasted image 20230106212133.png]]
+
+![[Pasted image 20230106212215.png]]
