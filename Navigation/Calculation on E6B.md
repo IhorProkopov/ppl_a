@@ -4,7 +4,7 @@ WCA = TH - TC
 WCA = MH - MC
 MH = TH - VAR (magnetic heading = true heading - variation)
 MC = TC - VAR (magnetic course = true course - variation)
-CH = MH - DEV (Calibrated heading = magnetic heading - deviation)
+CH = MH - DEV (Calibrated heading = magnetic heading - deviation) West is negative, East is positive
 
 ## GS (Ground Speed) and WCA (Wind Correction Angle)
 

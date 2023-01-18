@@ -7,3 +7,5 @@
 - https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/ TO READ
 - https://aviation.stackexchange.com/questions/94235/what-are-these-points-in-this-drag-curve-lilienthalsches-polardiagramm
 - https://pilotworkshop.com/tips/quick-crosswind-calculation/
+- https://www.theairlinepilots.com/sigwx.php
+- https://www.youtube.com/watch?v=p9FHfzJFnQk
